@@ -1,12 +1,11 @@
-🌱 Soil Moisture Monitoring System
+Soil Moisture Monitoring System
 
 An IoT-based system designed to monitor soil moisture levels in real time using hardware sensors and a web-based interface.
 
 This project demonstrates the integration of hardware components with software visualization, enabling environmental data monitoring and analysis.
 
 ⸻
-
-🎯 Project Objective
+ Project Objective
 
 The goal of this system is to:
 	•	Collect soil moisture data using sensors
@@ -16,15 +15,15 @@ The goal of this system is to:
 
 ⸻
 
-✨ Features
-	•	🌿 Real-time soil moisture data collection
-	•	🔌 Sensor interfacing with Arduino
-	•	🌐 Web-based visualization of sensor readings
-	•	🔄 Continuous environmental monitoring
+Features
+	•	Real-time soil moisture data collection
+	•   Sensor interfacing with Arduino
+	•   Web-based visualization of sensor readings
+	•	ontinuous environmental monitoring
 
 ⸻
 
-🛠 Tech Stack
+Tech Stack
 
 Hardware
 	•	Arduino
@@ -37,7 +36,7 @@ Software
 
 ⸻
 
-🔮 Future Enhancements
+ Future Enhancements
 	•	Database storage for historical data
 	•	Graph-based visualization of moisture trends
 	•	Automated irrigation control system
@@ -45,7 +44,7 @@ Software
 
 ⸻
 
-👨‍💻 Contribution
+Contribution
 
 Team-based project — contributed to:
 	•	Frontend interface development
